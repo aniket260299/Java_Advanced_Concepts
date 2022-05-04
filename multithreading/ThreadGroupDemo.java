@@ -1,4 +1,4 @@
-package MultiThreading;
+package multithreading;
 
 class CustomThread extends Thread {
     CustomThread(ThreadGroup group, String name) {

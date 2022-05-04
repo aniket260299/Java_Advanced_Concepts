@@ -1,4 +1,4 @@
-package MultiThreading;
+package multithreading;
 
 public class ThreadIdentity extends Thread {
     @Override

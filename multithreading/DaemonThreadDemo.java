@@ -1,4 +1,4 @@
-package MultiThreading;
+package multithreading;
 
 class CustomThread1 extends Thread {
     @Override

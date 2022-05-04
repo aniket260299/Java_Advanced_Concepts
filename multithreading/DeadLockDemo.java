@@ -1,4 +1,4 @@
-package MultiThreading;
+package multithreading;
 
 class Thread1 extends Thread {
     Resource r1, r2;

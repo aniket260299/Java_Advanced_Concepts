@@ -1,4 +1,4 @@
-package MultiThreading;
+package multithreading;
 
 class ProducerThread extends Thread {
     Data data;

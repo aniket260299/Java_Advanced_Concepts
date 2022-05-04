@@ -1,4 +1,4 @@
-package MultiThreading;
+package multithreading;
 
 class DisplayMessage {
     //this method is synchronized so only one can access is at anytime

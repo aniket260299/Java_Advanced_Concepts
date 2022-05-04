@@ -1,4 +1,4 @@
-package MultiThreading;
+package multithreading;
 
 class MyThread1 implements Runnable {
     int sum = 0;

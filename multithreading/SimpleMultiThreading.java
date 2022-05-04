@@ -1,4 +1,4 @@
-package MultiThreading;
+package multithreading;
 
 public class SimpleMultiThreading extends Thread {
     static int sum = 0;

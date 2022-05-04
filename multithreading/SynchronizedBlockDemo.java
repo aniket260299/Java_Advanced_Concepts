@@ -1,4 +1,4 @@
-package MultiThreading;
+package multithreading;
 
 class DisplayMessages {
     public void sayHello(String name) {

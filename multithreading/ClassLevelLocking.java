@@ -1,4 +1,4 @@
-package MultiThreading;
+package multithreading;
 
 class PrintMessage {
     //this method is static and synchronized, hence we have achieved class level locking
